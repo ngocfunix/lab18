@@ -1,0 +1,31 @@
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: linear-gradient(
+      rgba(36, 36, 36, 0.6),
+      rgba(36, 36, 36, 0.6)
+    ),
+    url(img/1.jpg);
+}
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: linear-gradient(
+      rgba(36, 36, 36, 0.6),
+      rgba(36, 36, 36, 0.6)
+    ),
+    url(img/2.jpg);
+}
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: linear-gradient(
+      rgba(36, 36, 36, 0.6),
+      rgba(36, 36, 36, 0.6)
+    ),
+    url(img/3.jpg);
+}
+
+.carousel-item {
+  height: 32rem;
+}
